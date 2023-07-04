@@ -2,6 +2,5 @@
 
 
 
-- 🔭 Atualmente não estou trabalhando
 - 🌱 I’m currently learning desenvolvimento web 
 - 
